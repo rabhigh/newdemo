@@ -1,4 +1,4 @@
-package com.flipcart;
+package newmavenproject;
 
 /**
  * Hello world!

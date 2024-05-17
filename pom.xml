@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.flipcart</groupId>
-  <artifactId>webappflipcart</artifactId>
-  <version>com.skype</version>
+  <artifactId>newmavenproject</artifactId>
+  <version>1.0</version>
 
-  <name>webappflipcart</name>
+  <name>newmavenproject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

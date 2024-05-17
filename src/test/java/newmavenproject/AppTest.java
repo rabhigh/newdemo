@@ -1,4 +1,4 @@
-package com.flipcart;
+package newmavenproject;
 
 import static org.junit.Assert.assertTrue;
 
